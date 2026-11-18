@@ -1,0 +1,451 @@
+gallery,qtype,variant,desc_id,query,item,category,same_background,specificity,dtype,rank,top1,top3
+F1,text,raw,D_ACCESSORIES_001_1,Gümüş kadranı köşeli bir kol saati,ACCESSORIES_001,Accessories,no,medium,attributes,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_002
+F1,text,raw,D_ACCESSORIES_001_2,sekizgen gövdesi olan içinde markası yazan bir kol saati,ACCESSORIES_001,Accessories,no,specific,distinctive detail,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 BOOKS_005
+F1,text,raw,D_ACCESSORIES_001_3,gümüş bir kol saati,ACCESSORIES_001,Accessories,no,vague,vague,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_002
+F1,text,raw,D_ACCESSORIES_001_4,gümüş bir erkek saati,ACCESSORIES_001,Accessories,no,medium,usage-style,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F1,text,raw,D_ACCESSORIES_002_1,gümüş yuvarlak ucu olan bir kolye,ACCESSORIES_002,Accessories,yes,medium,attributes,1,ACCESSORIES_002,ACCESSORIES_002 BOOKS_001 ACCESSORIES_003
+F1,text,raw,D_ACCESSORIES_002_2,yuvarlak pırlanta ucu olan orta boy gümüş bir kolye,ACCESSORIES_002,Accessories,yes,specific,distinctive detail,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F1,text,raw,D_ACCESSORIES_002_3,gümüş kolye,ACCESSORIES_002,Accessories,yes,vague,vague,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F1,text,raw,D_ACCESSORIES_002_4,boyna takılarak kullanılan gümüş pırlanta uçlu bir kolye,ACCESSORIES_002,Accessories,yes,medium,usage-style,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 BOOKS_001
+F1,text,raw,D_ACCESSORIES_003_1,sıralı pırlanta dizilmiş bir bileklik,ACCESSORIES_003,Accessories,no,medium,attributes,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,raw,D_ACCESSORIES_003_2,pırlantalardan oluşmuş su yolu bir kadın bilekliği,ACCESSORIES_003,Accessories,no,specific,distinctive detail,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,raw,D_ACCESSORIES_003_3,pırlantalı bir kadın biilekliği,ACCESSORIES_003,Accessories,no,vague,vague,3,ACCESSORIES_002,ACCESSORIES_002 BOOKS_001 ACCESSORIES_003
+F1,text,raw,D_ACCESSORIES_003_4,pahalı pırlantalardan oluşmuş bileğe takılan bir kadın aksesuarı,ACCESSORIES_003,Accessories,no,medium,usage-style,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,raw,D_ACCESSORIES_004_1,kahverengi bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,attributes,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,raw,D_ACCESSORIES_004_2,kahverengi açık renk yansımaları olan  kenarları sivrilerek küçülen bir kadın güneş gözlüğü,ACCESSORIES_004,Accessories,no,specific,distinctive detail,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,raw,D_ACCESSORIES_004_3,kenarları kısalarak küçülen bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,vague,vague,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BOOKS_005
+F1,text,raw,D_ACCESSORIES_004_4,kahverengi kenarları kısa bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,usage-style,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,raw,D_ACCESSORIES_005_1,pırlanta 5 taşı olan pırlanta bir yüzük,ACCESSORIES_005,Accessories,no,medium,attributes,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,raw,D_ACCESSORIES_005_2,büyük küçük 5 pırlanta taşa sahip pahalı bir yüzük,ACCESSORIES_005,Accessories,no,specific,distinctive detail,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,raw,D_ACCESSORIES_005_3,pırlanta taşları olan yüzük,ACCESSORIES_005,Accessories,no,vague,vague,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,raw,D_ACCESSORIES_005_4,pırlanta bir evlilik ya da nişan yüzüğü,ACCESSORIES_005,Accessories,no,medium,usage-style,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,raw,D_BAG_001_1,açık kahverengi süet bir kol çantası,BAG_001,Bags,yes,medium,attributes,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,raw,D_BAG_001_2,açık kahverengi kemer detayı bulunan süet bir kol çantası,BAG_001,Bags,yes,specific,distinctive detail,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,raw,D_BAG_001_3,süet kahverengi büyük kol çantası,BAG_001,Bags,yes,vague,vague,1,BAG_001,BAG_001 BAG_002 BAG_004
+F1,text,raw,D_BAG_001_4,kahverengi süet kemer detaylı bir kadın kol çantası,BAG_001,Bags,yes,medium,usage-style,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,raw,D_BAG_002_1,siyah deri kadın kol çantası,BAG_002,Bags,yes,medium,attributes,1,BAG_002,BAG_002 BAG_004 BAG_001
+F1,text,raw,D_BAG_002_2,siyah parlak deri bir kadın kol çantası,BAG_002,Bags,yes,specific,distinctive detail,1,BAG_002,BAG_002 BAG_001 BAG_004
+F1,text,raw,D_BAG_002_3,siyah kadın kol çantası,BAG_002,Bags,yes,vague,vague,1,BAG_002,BAG_002 BAG_004 BAG_001
+F1,text,raw,D_BAG_002_4,siyah kola takılan orta boy kadın çantası,BAG_002,Bags,yes,medium,usage-style,1,BAG_002,BAG_002 BAG_005 BAG_004
+F1,text,raw,D_BAG_003_1,küçük krem rengi bir sırt çantası,BAG_003,Bags,no,medium,attributes,1,BAG_003,BAG_003 BAG_001 BAG_004
+F1,text,raw,D_BAG_003_2,kumaş krem rengi gri ve turuncu detayları bulunan küçük unisex bir sırt çantası,BAG_003,Bags,no,specific,distinctive detail,1,BAG_003,BAG_003 BAG_004 BOOKS_001
+F1,text,raw,D_BAG_003_3,açık renk sırt çantası,BAG_003,Bags,no,vague,vague,1,BAG_003,BAG_003 BAG_002 BAG_001
+F1,text,raw,D_BAG_003_4,eşya taşımak için sırta takılan renkli sırt çantası,BAG_003,Bags,no,vague,usage-style,1,BAG_003,BAG_003 BAG_002 BOOKS_001
+F1,text,raw,D_BAG_004_1,Guess marka küçük bir el çantası,BAG_004,Bags,yes,medium,attributes,1,BAG_004,BAG_004 BOOKS_005 BAG_003
+F1,text,raw,D_BAG_004_2,guess marka etiketi bulunan gövdesinde amblem detayları bulunan kahverengi deri kenarları bulunan küçük bir el çantası,BAG_004,Bags,yes,specific,distinctive detail,1,BAG_004,BAG_004 BOOKS_005 BAG_001
+F1,text,raw,D_BAG_004_3,küçük kahverengi el çantası,BAG_004,Bags,yes,vague,vague,1,BAG_004,BAG_004 BAG_001 BAG_002
+F1,text,raw,D_BAG_004_4,içinde çok eşya taşınamayacak kadar küçük şık kahverengi bir çanta,BAG_004,Bags,yes,medium,usage-style,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F1,text,raw,D_BAG_005_1,gri üstünde beyaz yazıalrı bulunan Tote çanta,BAG_005,Bags,no,medium,attributes,1,BAG_005,BAG_005 BAG_001 BAG_004
+F1,text,raw,D_BAG_005_2,gri üstünde beyaz işleme ile büyük küçük yazılar yazan bir kadın kol çantası,BAG_005,Bags,no,specific,distinctive detail,1,BAG_005,BAG_005 BAG_001 BAG_004
+F1,text,raw,D_BAG_005_3,gri kadın kol çantası,BAG_005,Bags,no,vague,vague,4,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,raw,D_BAG_005_4,büyük içine ders kitapları konulabilecek üstü beyaz yazılı gri çanta,BAG_005,Bags,no,medium,usage-style,1,BAG_005,BAG_005 BOOKS_001 BAG_003
+F1,text,raw,D_BOOKS_001_1,yazarı Tolstoy olan bir okuma kitabı,BOOKS_001,Books and stationery,yes,medium,attributes,1,BOOKS_001,BOOKS_001 BOOKS_005 BOOKS_002
+F1,text,raw,D_BOOKS_001_2,kitabın kapağında yaşlı bir adam olan Tolstoy'dan Bir gencin dramı adlı roman,BOOKS_001,Books and stationery,yes,specific,distinctive detail,1,BOOKS_001,BOOKS_001 BOOKS_005 BOOKS_004
+F1,text,raw,D_BOOKS_001_3,bir yetişkin hikaye kitabı,BOOKS_001,Books and stationery,yes,vague,vague,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F1,text,raw,D_BOOKS_001_4,önemli bir yazardan bir roman kitabı,BOOKS_001,Books and stationery,yes,vague,usage-style,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_004
+F1,text,raw,D_BOOKS_002_1,yeşil beyaz renkli yazı defteri,BOOKS_002,Books and stationery,yes,medium,attributes,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,raw,D_BOOKS_002_2,üstünde kaktüs ressimleri bulunan beyaz yeşil bir yazı defteri,BOOKS_002,Books and stationery,yes,specific,distinctive detail,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,raw,D_BOOKS_002_3,"resimli ,renkli yazı defteri",BOOKS_002,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F1,text,raw,D_BOOKS_002_4,içine yazı yazmaya yarayan kapağında kaktüs detayları bulunan bir defter,BOOKS_002,Books and stationery,yes,medium,usage-style,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,raw,D_BOOKS_003_1,siyah üstünde beyaz detaylar olan bir dosya,BOOKS_003,Books and stationery,yes,medium,attributes,2,BOOKS_001,BOOKS_001 BOOKS_003 ACCESSORIES_002
+F1,text,raw,D_BOOKS_003_2,beyaz araba detaylı kenarda kalemi bulunan Mercedes markalı bir dosya,BOOKS_003,Books and stationery,yes,specific,distinctive detail,1,BOOKS_003,BOOKS_003 BOOKS_004 BOOKS_001
+F1,text,raw,D_BOOKS_003_3,markalı siyah bir dosya,BOOKS_003,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F1,text,raw,D_BOOKS_003_4,içine kağıt koymaya yarayan kameli bulunan markalı bir dosya,BOOKS_003,Books and stationery,yes,medium,usage-style,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F1,text,raw,D_BOOKS_004_1,kapağı bulunan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,attributes,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,raw,D_BOOKS_004_2,"kahverengi detayları bulunan ,kapağı olan şeffaf bir dolma kalem",BOOKS_004,Books and stationery,yes,specific,distinctive detail,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,raw,D_BOOKS_004_3,şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,vague,vague,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,raw,D_BOOKS_004_4,güzel yazmaya yarayan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,usage-style,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,raw,D_BOOKS_005_1,yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,attributes,1,BOOKS_005,BOOKS_005 BOOKS_001 ELECTRONICS_001
+F1,text,raw,D_BOOKS_005_2,"yeşil ,ince ,uzun deriden yapılmış bir kalemlik",BOOKS_005,Books and stationery,yes,specific,distinctive detail,1,BOOKS_005,BOOKS_005 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_BOOKS_005_3,dikdörtgen yeşil bir kalemlik,BOOKS_005,Books and stationery,yes,vague,vague,1,BOOKS_005,BOOKS_005 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_BOOKS_005_4,içine bir kalem sığacak uzunlukta yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,usage-style,1,BOOKS_005,BOOKS_005 BOOKS_003 BOOKS_001
+F1,text,raw,D_BOTTLE_001_1,"yeşil ve kırmızı, üstünde hayvan ressimleri olan pipetli bir termos",BOTTLE_001,Water bottles and containers,no,medium,attributes,1,BOTTLE_001,BOTTLE_001 BOOKS_005 BOOKS_001
+F1,text,raw,D_BOTTLE_001_2,"sturbucks markalı yeşil renkli, üstünde bereli hayvan ressimleri bulunan,kırmızı kapağı ve pipeti olan bir termos",BOTTLE_001,Water bottles and containers,no,specific,distinctive detail,1,BOTTLE_001,BOTTLE_001 BOOKS_005 BOOKS_002
+F1,text,raw,D_BOTTLE_001_3,resimli ve renkli bir termos,BOTTLE_001,Water bottles and containers,no,vague,vague,1,BOTTLE_001,BOTTLE_001 BOOKS_001 BOOKS_002
+F1,text,raw,D_BOTTLE_001_4,içinde sıvı taşınabilen büyük termos,BOTTLE_001,Water bottles and containers,no,vague,usage-style,2,BOOKS_001,BOOKS_001 BOTTLE_001 BAG_002
+F1,text,raw,D_CLOTHING_001_1,koyu yeşil uzun kollu hırka,CLOTHING_001,Clothing,no,medium,attributes,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 CLOTHING_002
+F1,text,raw,D_CLOTHING_001_2,"yeşil renkli,düğmeleri bulunan yün bir kadın hırkası",CLOTHING_001,Clothing,no,specific,distinctive detail,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 CLOTHING_002
+F1,text,raw,D_CLOTHING_001_3,koyu yeşil bir hırka,CLOTHING_001,Clothing,no,vague,vague,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_CLOTHING_001_4,soğuktan koyuyan yünlü yeşil bir hırka,CLOTHING_001,Clothing,no,medium,usage-style,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_CLOTHING_002_1,"lacivert uzun kollu bir sweatshirt,kazak",CLOTHING_002,Clothing,no,medium,attributes,1,CLOTHING_002,CLOTHING_002 CLOTHING_001 CLOTHING_003
+F1,text,raw,D_CLOTHING_002_2,"lacivert,kırmızı arması bulunan uzun kollu bir sweatshirt,kazak",CLOTHING_002,Clothing,no,specific,distinctive detail,1,CLOTHING_002,CLOTHING_002 CLOTHING_003 CLOTHING_001
+F1,text,raw,D_CLOTHING_002_3,kırmızı arması bulunan kazak,CLOTHING_002,Clothing,no,vague,vague,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F1,text,raw,D_CLOTHING_002_4,soğuk havada giyilebilen bir kazak,CLOTHING_002,Clothing,no,vague,usage-style,1,CLOTHING_002,CLOTHING_002 CLOTHING_001 BOOKS_001
+F1,text,raw,D_CLOTHING_003_1,"siyah, üstünde at resmi olan kenarında polo yazan bir şapka",CLOTHING_003,Clothing,yes,medium,attributes,1,CLOTHING_003,CLOTHING_003 CLOTHING_002 BOOKS_001
+F1,text,raw,D_CLOTHING_003_2,"siyah, üstünde beyaz at işlemesi olan bir şapka",CLOTHING_003,Clothing,yes,specific,distinctive detail,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F1,text,raw,D_CLOTHING_003_3,siyah bir erkek şapkası,CLOTHING_003,Clothing,yes,vague,vague,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F1,text,raw,D_CLOTHING_003_4,güneşten koruyan siyah bir şayka,CLOTHING_003,Clothing,yes,medium,usage-style,2,BOOKS_001,BOOKS_001 CLOTHING_003 KEYS_001
+F1,text,raw,D_CLOTHING_004_1,"beyaz,üstünde yazı ve kahve fincanı bulunan bir tişört",CLOTHING_004,Clothing,yes,medium,attributes,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,raw,D_CLOTHING_004_2,"beyaz, üstünde turuncu yazılar ve içi kahve dolu finvan baskısı bulunan bir tişört",CLOTHING_004,Clothing,yes,specific,distinctive detail,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,raw,D_CLOTHING_004_3,beyaz bir kadın tişörtü,CLOTHING_004,Clothing,yes,vague,vague,1,CLOTHING_004,CLOTHING_004 BOOKS_001 CLOTHING_002
+F1,text,raw,D_CLOTHING_004_4,"ince, beyaz bir kadın tişörtü",CLOTHING_004,Clothing,yes,medium,usage-style,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,raw,D_CLOTHING_005_1,düğmeleri bulunan deri bir ceket,CLOTHING_005,Clothing,yes,medium,attributes,1,CLOTHING_005,CLOTHING_005 BOOKS_001 KEYS_001
+F1,text,raw,D_CLOTHING_005_2,siyah yuvarlak düğmeleri bulunan kahverengi deri bir kadın ceketi,CLOTHING_005,Clothing,yes,specific,distinctive detail,1,CLOTHING_005,CLOTHING_005 BAG_002 CLOTHING_001
+F1,text,raw,D_CLOTHING_005_3,kahverengi deri bir ceket,CLOTHING_005,Clothing,yes,vague,vague,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_004
+F1,text,raw,D_CLOTHING_005_4,soğuktan koruyan deri bir ceket,CLOTHING_005,Clothing,yes,medium,usage-style,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F1,text,raw,D_ELECTRONICS_001_1,iki kamerası bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,yes,medium,attributes,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_005 KEYS_001
+F1,text,raw,D_ELECTRONICS_001_2,iki kamerası olan elma sembolu bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_002 BOOKS_005
+F1,text,raw,D_ELECTRONICS_001_3,kameralı bir cep telefonu,ELECTRONICS_001,Electronics,yes,vague,vague,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F1,text,raw,D_ELECTRONICS_001_4,iletişim kurulmasına yarayan bir cep telefonu,ELECTRONICS_001,Electronics,yes,vague,usage-style,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F1,text,raw,D_ELECTRONICS_002_1,beyaz kabı bulunan bir kulaklık,ELECTRONICS_002,Electronics,yes,medium,attributes,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_ELECTRONICS_002_2,"beyaz kulak içi bir kulaklık, kabında bir ip var",ELECTRONICS_002,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_004
+F1,text,raw,D_ELECTRONICS_002_3,beyaz bir çift kulaklık,ELECTRONICS_002,Electronics,yes,vague,vague,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_001
+F1,text,raw,D_ELECTRONICS_002_4,müzik dinlemeye yarayan bir kulaklık,ELECTRONICS_002,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_002 ELECTRONICS_001
+F1,text,raw,D_ELECTRONICS_003_1,siyah dikdörtgen bir tablet,ELECTRONICS_003,Electronics,yes,medium,attributes,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_003 BOOKS_001
+F1,text,raw,D_ELECTRONICS_003_2,"siyah ,kamerası olan dikdörtgen bir tablet",ELECTRONICS_003,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_003 BOOKS_001
+F1,text,raw,D_ELECTRONICS_003_3,"dikdörtgen, kameralı tablet",ELECTRONICS_003,Electronics,yes,vague,vague,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F1,text,raw,D_ELECTRONICS_003_4,elektronik işlemlere yarayan bir tablet,ELECTRONICS_003,Electronics,yes,vague,usage-style,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F1,text,raw,D_KEYS_001_1,siyah düğmeli araba anahtarı,KEYS_001,Keys,no,medium,attributes,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_001
+F1,text,raw,D_KEYS_001_2,"siyah ve metal detayları bulunan, düğmelerinin üstünde ressimler olan araba anahtarı",KEYS_001,Keys,no,specific,distinctive detail,1,KEYS_001,KEYS_001 CLOTHING_003 BOOKS_003
+F1,text,raw,D_KEYS_001_3,düğmeli bir araba anahtarı,KEYS_001,Keys,no,vague,vague,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F1,text,raw,D_KEYS_001_4,arabayı çalıştırmaya yarayan düğmeleri bulunan bir araba anahtarı,KEYS_001,Keys,no,medium,usage-style,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_004
+F1,text,clean,D_ACCESSORIES_001_1,"Gümüş, kadranı köşeli bir kol saati",ACCESSORIES_001,Accessories,no,medium,attributes,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_002
+F1,text,clean,D_ACCESSORIES_001_2,"Sekizgen gövdesi olan, içinde markası yazan bir kol saati",ACCESSORIES_001,Accessories,no,specific,distinctive detail,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 BOOKS_005
+F1,text,clean,D_ACCESSORIES_001_3,Gümüş bir kol saati,ACCESSORIES_001,Accessories,no,vague,vague,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_002
+F1,text,clean,D_ACCESSORIES_001_4,Gümüş bir erkek saati,ACCESSORIES_001,Accessories,no,medium,usage-style,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F1,text,clean,D_ACCESSORIES_002_1,"Gümüş, yuvarlak ucu olan bir kolye",ACCESSORIES_002,Accessories,yes,medium,attributes,1,ACCESSORIES_002,ACCESSORIES_002 BOOKS_001 ACCESSORIES_003
+F1,text,clean,D_ACCESSORIES_002_2,Yuvarlak pırlanta ucu olan orta boy gümüş bir kolye,ACCESSORIES_002,Accessories,yes,specific,distinctive detail,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F1,text,clean,D_ACCESSORIES_002_3,Gümüş kolye,ACCESSORIES_002,Accessories,yes,vague,vague,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F1,text,clean,D_ACCESSORIES_002_4,"Boyna takılarak kullanılan gümüş, pırlanta uçlu bir kolye",ACCESSORIES_002,Accessories,yes,medium,usage-style,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 BOOKS_001
+F1,text,clean,D_ACCESSORIES_003_1,Sıralı pırlanta dizilmiş bir bileklik,ACCESSORIES_003,Accessories,no,medium,attributes,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,clean,D_ACCESSORIES_003_2,Pırlantalardan oluşmuş su yolu bir kadın bilekliği,ACCESSORIES_003,Accessories,no,specific,distinctive detail,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,clean,D_ACCESSORIES_003_3,Pırlantalı bir kadın bilekliği,ACCESSORIES_003,Accessories,no,vague,vague,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 BOOKS_001
+F1,text,clean,D_ACCESSORIES_003_4,"Pahalı pırlantalardan oluşmuş, bileğe takılan bir kadın aksesuarı",ACCESSORIES_003,Accessories,no,medium,usage-style,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F1,text,clean,D_ACCESSORIES_004_1,Kahverengi bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,attributes,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,clean,D_ACCESSORIES_004_2,"Kahverengi, açık renk yansımaları olan, kenarları sivrilerek küçülen bir kadın güneş gözlüğü",ACCESSORIES_004,Accessories,no,specific,distinctive detail,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,clean,D_ACCESSORIES_004_3,Kenarları kısalarak küçülen bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,vague,vague,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BOOKS_005
+F1,text,clean,D_ACCESSORIES_004_4,"Kahverengi, kenarları kısa bir güneş gözlüğü",ACCESSORIES_004,Accessories,no,medium,usage-style,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_001
+F1,text,clean,D_ACCESSORIES_005_1,Pırlanta 5 taşı olan pırlanta bir yüzük,ACCESSORIES_005,Accessories,no,medium,attributes,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,clean,D_ACCESSORIES_005_2,Büyük küçük 5 pırlanta taşa sahip pahalı bir yüzük,ACCESSORIES_005,Accessories,no,specific,distinctive detail,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,clean,D_ACCESSORIES_005_3,Pırlanta taşları olan yüzük,ACCESSORIES_005,Accessories,no,vague,vague,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,clean,D_ACCESSORIES_005_4,Pırlanta bir evlilik ya da nişan yüzüğü,ACCESSORIES_005,Accessories,no,medium,usage-style,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,text,clean,D_BAG_001_1,Açık kahverengi süet bir kol çantası,BAG_001,Bags,yes,medium,attributes,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,clean,D_BAG_001_2,"Açık kahverengi, kemer detayı bulunan süet bir kol çantası",BAG_001,Bags,yes,specific,distinctive detail,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,clean,D_BAG_001_3,Süet kahverengi büyük kol çantası,BAG_001,Bags,yes,vague,vague,1,BAG_001,BAG_001 BAG_002 BAG_004
+F1,text,clean,D_BAG_001_4,"Kahverengi süet, kemer detaylı bir kadın kol çantası",BAG_001,Bags,yes,medium,usage-style,1,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,clean,D_BAG_002_1,Siyah deri kadın kol çantası,BAG_002,Bags,yes,medium,attributes,1,BAG_002,BAG_002 BAG_004 BAG_001
+F1,text,clean,D_BAG_002_2,Siyah parlak deri bir kadın kol çantası,BAG_002,Bags,yes,specific,distinctive detail,1,BAG_002,BAG_002 BAG_001 BAG_004
+F1,text,clean,D_BAG_002_3,Siyah kadın kol çantası,BAG_002,Bags,yes,vague,vague,1,BAG_002,BAG_002 BAG_004 BAG_001
+F1,text,clean,D_BAG_002_4,"Siyah, kola takılan orta boy kadın çantası",BAG_002,Bags,yes,medium,usage-style,1,BAG_002,BAG_002 BAG_005 BAG_004
+F1,text,clean,D_BAG_003_1,Küçük krem rengi bir sırt çantası,BAG_003,Bags,no,medium,attributes,1,BAG_003,BAG_003 BAG_001 BAG_004
+F1,text,clean,D_BAG_003_2,"Kumaş, krem rengi, gri ve turuncu detayları bulunan küçük unisex bir sırt çantası",BAG_003,Bags,no,specific,distinctive detail,1,BAG_003,BAG_003 BAG_004 BOOKS_001
+F1,text,clean,D_BAG_003_3,Açık renk sırt çantası,BAG_003,Bags,no,vague,vague,1,BAG_003,BAG_003 BAG_002 BAG_001
+F1,text,clean,D_BAG_003_4,Eşya taşımak için sırta takılan renkli sırt çantası,BAG_003,Bags,no,vague,usage-style,1,BAG_003,BAG_003 BAG_002 BOOKS_001
+F1,text,clean,D_BAG_004_1,Guess marka küçük bir el çantası,BAG_004,Bags,yes,medium,attributes,1,BAG_004,BAG_004 BOOKS_005 BAG_003
+F1,text,clean,D_BAG_004_2,"Guess marka etiketi ve gövdesinde amblem detayları olan, kahverengi deri kenarlı küçük bir el çantası",BAG_004,Bags,yes,specific,distinctive detail,1,BAG_004,BAG_004 BOOKS_005 BAG_001
+F1,text,clean,D_BAG_004_3,Küçük kahverengi el çantası,BAG_004,Bags,yes,vague,vague,1,BAG_004,BAG_004 BAG_001 BAG_002
+F1,text,clean,D_BAG_004_4,"İçinde çok eşya taşınamayacak kadar küçük, şık kahverengi bir çanta",BAG_004,Bags,yes,medium,usage-style,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F1,text,clean,D_BAG_005_1,"Gri, üstünde beyaz yazıları bulunan tote çanta",BAG_005,Bags,no,medium,attributes,1,BAG_005,BAG_005 BAG_001 BAG_002
+F1,text,clean,D_BAG_005_2,"Gri, üstünde beyaz işleme ile büyük küçük yazılar yazan bir kadın kol çantası",BAG_005,Bags,no,specific,distinctive detail,1,BAG_005,BAG_005 BAG_001 BAG_004
+F1,text,clean,D_BAG_005_3,Gri kadın kol çantası,BAG_005,Bags,no,vague,vague,4,BAG_001,BAG_001 BAG_004 BAG_002
+F1,text,clean,D_BAG_005_4,"Büyük, içine ders kitapları konulabilecek, üstü beyaz yazılı gri çanta",BAG_005,Bags,no,medium,usage-style,1,BAG_005,BAG_005 BOOKS_001 BAG_003
+F1,text,clean,D_BOOKS_001_1,Yazarı Tolstoy olan bir okuma kitabı,BOOKS_001,Books and stationery,yes,medium,attributes,1,BOOKS_001,BOOKS_001 BOOKS_005 BOOKS_002
+F1,text,clean,D_BOOKS_001_2,"Kapağında yaşlı bir adam resmi olan, Tolstoy'dan Bir Gencin Dramı adlı roman",BOOKS_001,Books and stationery,yes,specific,distinctive detail,1,BOOKS_001,BOOKS_001 BOOKS_005 ACCESSORIES_002
+F1,text,clean,D_BOOKS_001_3,Bir yetişkin hikâye kitabı,BOOKS_001,Books and stationery,yes,vague,vague,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F1,text,clean,D_BOOKS_001_4,Önemli bir yazardan bir roman kitabı,BOOKS_001,Books and stationery,yes,vague,usage-style,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_004
+F1,text,clean,D_BOOKS_002_1,Yeşil beyaz renkli yazı defteri,BOOKS_002,Books and stationery,yes,medium,attributes,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,clean,D_BOOKS_002_2,Üstünde kaktüs resimleri bulunan beyaz yeşil bir yazı defteri,BOOKS_002,Books and stationery,yes,specific,distinctive detail,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,clean,D_BOOKS_002_3,"Resimli, renkli yazı defteri",BOOKS_002,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F1,text,clean,D_BOOKS_002_4,"İçine yazı yazmaya yarayan, kapağında kaktüs detayları bulunan bir defter",BOOKS_002,Books and stationery,yes,medium,usage-style,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F1,text,clean,D_BOOKS_003_1,"Siyah, üstünde beyaz detaylar olan bir dosya",BOOKS_003,Books and stationery,yes,medium,attributes,2,BOOKS_001,BOOKS_001 BOOKS_003 ACCESSORIES_002
+F1,text,clean,D_BOOKS_003_2,"Beyaz araba detaylı, kenarında kalemi bulunan Mercedes markalı bir dosya",BOOKS_003,Books and stationery,yes,specific,distinctive detail,1,BOOKS_003,BOOKS_003 BOOKS_004 BOOKS_001
+F1,text,clean,D_BOOKS_003_3,Markalı siyah bir dosya,BOOKS_003,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F1,text,clean,D_BOOKS_003_4,"İçine kâğıt koymaya yarayan, kalemi bulunan markalı bir dosya",BOOKS_003,Books and stationery,yes,medium,usage-style,1,BOOKS_003,BOOKS_003 BOOKS_001 BOOKS_002
+F1,text,clean,D_BOOKS_004_1,Kapağı bulunan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,attributes,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,clean,D_BOOKS_004_2,"Kahverengi detayları bulunan, kapağı olan şeffaf bir dolma kalem",BOOKS_004,Books and stationery,yes,specific,distinctive detail,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,clean,D_BOOKS_004_3,Şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,vague,vague,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,clean,D_BOOKS_004_4,Güzel yazmaya yarayan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,usage-style,1,BOOKS_004,BOOKS_004 BOOKS_001 BOOKS_005
+F1,text,clean,D_BOOKS_005_1,Yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,attributes,1,BOOKS_005,BOOKS_005 BOOKS_001 ELECTRONICS_001
+F1,text,clean,D_BOOKS_005_2,"Yeşil, ince, uzun deriden yapılmış bir kalemlik",BOOKS_005,Books and stationery,yes,specific,distinctive detail,1,BOOKS_005,BOOKS_005 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_BOOKS_005_3,Dikdörtgen yeşil bir kalemlik,BOOKS_005,Books and stationery,yes,vague,vague,1,BOOKS_005,BOOKS_005 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_BOOKS_005_4,İçine bir kalem sığacak uzunlukta yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,usage-style,1,BOOKS_005,BOOKS_005 BOOKS_003 BOOKS_001
+F1,text,clean,D_BOTTLE_001_1,"Yeşil ve kırmızı, üstünde hayvan resimleri olan pipetli bir termos",BOTTLE_001,Water bottles and containers,no,medium,attributes,1,BOTTLE_001,BOTTLE_001 BOOKS_001 BOOKS_005
+F1,text,clean,D_BOTTLE_001_2,"Starbucks markalı, yeşil renkli, üstünde bereli hayvan resimleri bulunan, kırmızı kapağı ve pipeti olan bir termos",BOTTLE_001,Water bottles and containers,no,specific,distinctive detail,1,BOTTLE_001,BOTTLE_001 BOOKS_005 BOOKS_002
+F1,text,clean,D_BOTTLE_001_3,Resimli ve renkli bir termos,BOTTLE_001,Water bottles and containers,no,vague,vague,1,BOTTLE_001,BOTTLE_001 BOOKS_001 BOOKS_002
+F1,text,clean,D_BOTTLE_001_4,İçinde sıvı taşınabilen büyük termos,BOTTLE_001,Water bottles and containers,no,vague,usage-style,2,BOOKS_001,BOOKS_001 BOTTLE_001 BAG_002
+F1,text,clean,D_CLOTHING_001_1,Koyu yeşil uzun kollu hırka,CLOTHING_001,Clothing,no,medium,attributes,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 CLOTHING_002
+F1,text,clean,D_CLOTHING_001_2,"Yeşil renkli, düğmeleri bulunan yün bir kadın hırkası",CLOTHING_001,Clothing,no,specific,distinctive detail,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 CLOTHING_002
+F1,text,clean,D_CLOTHING_001_3,Koyu yeşil bir hırka,CLOTHING_001,Clothing,no,vague,vague,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_CLOTHING_001_4,Soğuktan koruyan yünlü yeşil bir hırka,CLOTHING_001,Clothing,no,medium,usage-style,1,CLOTHING_001,CLOTHING_001 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_CLOTHING_002_1,"Lacivert uzun kollu bir sweatshirt, kazak",CLOTHING_002,Clothing,no,medium,attributes,1,CLOTHING_002,CLOTHING_002 CLOTHING_001 CLOTHING_003
+F1,text,clean,D_CLOTHING_002_2,"Lacivert, kırmızı arması bulunan uzun kollu bir sweatshirt, kazak",CLOTHING_002,Clothing,no,specific,distinctive detail,1,CLOTHING_002,CLOTHING_002 CLOTHING_003 CLOTHING_001
+F1,text,clean,D_CLOTHING_002_3,Kırmızı arması bulunan kazak,CLOTHING_002,Clothing,no,vague,vague,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F1,text,clean,D_CLOTHING_002_4,Soğuk havada giyilebilen bir kazak,CLOTHING_002,Clothing,no,vague,usage-style,1,CLOTHING_002,CLOTHING_002 CLOTHING_001 BOOKS_001
+F1,text,clean,D_CLOTHING_003_1,"Siyah, üstünde at resmi olan, kenarında Polo yazan bir şapka",CLOTHING_003,Clothing,yes,medium,attributes,1,CLOTHING_003,CLOTHING_003 CLOTHING_002 BOOKS_001
+F1,text,clean,D_CLOTHING_003_2,"Siyah, üstünde beyaz at işlemesi olan bir şapka",CLOTHING_003,Clothing,yes,specific,distinctive detail,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F1,text,clean,D_CLOTHING_003_3,Siyah bir erkek şapkası,CLOTHING_003,Clothing,yes,vague,vague,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F1,text,clean,D_CLOTHING_003_4,Güneşten koruyan siyah bir şapka,CLOTHING_003,Clothing,yes,medium,usage-style,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ELECTRONICS_003
+F1,text,clean,D_CLOTHING_004_1,"Beyaz, üstünde yazı ve kahve fincanı bulunan bir tişört",CLOTHING_004,Clothing,yes,medium,attributes,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,clean,D_CLOTHING_004_2,"Beyaz, üstünde turuncu yazılar ve içi kahve dolu fincan baskısı bulunan bir tişört",CLOTHING_004,Clothing,yes,specific,distinctive detail,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,clean,D_CLOTHING_004_3,Beyaz bir kadın tişörtü,CLOTHING_004,Clothing,yes,vague,vague,1,CLOTHING_004,CLOTHING_004 BOOKS_001 CLOTHING_002
+F1,text,clean,D_CLOTHING_004_4,"İnce, beyaz bir kadın tişörtü",CLOTHING_004,Clothing,yes,medium,usage-style,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 BOOKS_001
+F1,text,clean,D_CLOTHING_005_1,Düğmeleri bulunan deri bir ceket,CLOTHING_005,Clothing,yes,medium,attributes,1,CLOTHING_005,CLOTHING_005 BOOKS_001 KEYS_001
+F1,text,clean,D_CLOTHING_005_2,Siyah yuvarlak düğmeleri bulunan kahverengi deri bir kadın ceketi,CLOTHING_005,Clothing,yes,specific,distinctive detail,1,CLOTHING_005,CLOTHING_005 BAG_002 CLOTHING_001
+F1,text,clean,D_CLOTHING_005_3,Kahverengi deri bir ceket,CLOTHING_005,Clothing,yes,vague,vague,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_004
+F1,text,clean,D_CLOTHING_005_4,Soğuktan koruyan deri bir ceket,CLOTHING_005,Clothing,yes,medium,usage-style,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F1,text,clean,D_ELECTRONICS_001_1,İki kamerası bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,yes,medium,attributes,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_005 KEYS_001
+F1,text,clean,D_ELECTRONICS_001_2,"İki kamerası olan, elma sembolü bulunan yeşil bir cep telefonu",ELECTRONICS_001,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_002 BOOKS_005
+F1,text,clean,D_ELECTRONICS_001_3,Kameralı bir cep telefonu,ELECTRONICS_001,Electronics,yes,vague,vague,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F1,text,clean,D_ELECTRONICS_001_4,İletişim kurulmasına yarayan bir cep telefonu,ELECTRONICS_001,Electronics,yes,vague,usage-style,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F1,text,clean,D_ELECTRONICS_002_1,Beyaz kabı bulunan bir kulaklık,ELECTRONICS_002,Electronics,yes,medium,attributes,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_ELECTRONICS_002_2,"Beyaz kulak içi bir kulaklık, kabında bir ip var",ELECTRONICS_002,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_004
+F1,text,clean,D_ELECTRONICS_002_3,Beyaz bir çift kulaklık,ELECTRONICS_002,Electronics,yes,vague,vague,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 BOOKS_001
+F1,text,clean,D_ELECTRONICS_002_4,Müzik dinlemeye yarayan bir kulaklık,ELECTRONICS_002,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_002 ELECTRONICS_001
+F1,text,clean,D_ELECTRONICS_003_1,Siyah dikdörtgen bir tablet,ELECTRONICS_003,Electronics,yes,medium,attributes,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_003 BOOKS_001
+F1,text,clean,D_ELECTRONICS_003_2,"Siyah, kamerası olan dikdörtgen bir tablet",ELECTRONICS_003,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_003 BOOKS_001
+F1,text,clean,D_ELECTRONICS_003_3,"Dikdörtgen, kameralı tablet",ELECTRONICS_003,Electronics,yes,vague,vague,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F1,text,clean,D_ELECTRONICS_003_4,Elektronik işlemlere yarayan bir tablet,ELECTRONICS_003,Electronics,yes,vague,usage-style,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F1,text,clean,D_KEYS_001_1,Siyah düğmeli araba anahtarı,KEYS_001,Keys,no,medium,attributes,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_001
+F1,text,clean,D_KEYS_001_2,"Siyah ve metal detayları bulunan, düğmelerinin üstünde resimler olan araba anahtarı",KEYS_001,Keys,no,specific,distinctive detail,1,KEYS_001,KEYS_001 BOOKS_003 CLOTHING_003
+F1,text,clean,D_KEYS_001_3,Düğmeli bir araba anahtarı,KEYS_001,Keys,no,vague,vague,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F1,text,clean,D_KEYS_001_4,Arabayı çalıştırmaya yarayan düğmeleri bulunan bir araba anahtarı,KEYS_001,Keys,no,medium,usage-style,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_004
+F1,photo,photo,,ACCESSORIES_001_L.webp,ACCESSORIES_001,Accessories,no,,,1,ACCESSORIES_001,ACCESSORIES_001 ACCESSORIES_005 ACCESSORIES_003
+F1,photo,photo,,ACCESSORIES_002_L.webp,ACCESSORIES_002,Accessories,yes,,,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F1,photo,photo,,ACCESSORIES_003_L.webp,ACCESSORIES_003,Accessories,no,,,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 ACCESSORIES_002
+F1,photo,photo,,ACCESSORIES_004_L.webp,ACCESSORIES_004,Accessories,no,,,1,ACCESSORIES_004,ACCESSORIES_004 CLOTHING_001 CLOTHING_003
+F1,photo,photo,,ACCESSORIES_005_L.webp,ACCESSORIES_005,Accessories,no,,,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 ACCESSORIES_002
+F1,photo,photo,,BAG_001_L.webp,BAG_001,Bags,yes,,,1,BAG_001,BAG_001 BAG_002 BAG_003
+F1,photo,photo,,BAG_002_L.webp,BAG_002,Bags,yes,,,1,BAG_002,BAG_002 BAG_003 CLOTHING_001
+F1,photo,photo,,BAG_003_L.webp,BAG_003,Bags,no,,,1,BAG_003,BAG_003 BAG_002 BAG_005
+F1,photo,photo,,BAG_004_L.webp,BAG_004,Bags,yes,,,1,BAG_004,BAG_004 BAG_001 BAG_003
+F1,photo,photo,,BAG_005_L.webp,BAG_005,Bags,no,,,1,BAG_005,BAG_005 BAG_004 BAG_002
+F1,photo,photo,,BOOKS_001_L.webp,BOOKS_001,Books and stationery,yes,,,1,BOOKS_001,BOOKS_001 BAG_004 BOOKS_003
+F1,photo,photo,,BOOKS_002_L.webp,BOOKS_002,Books and stationery,yes,,,1,BOOKS_002,BOOKS_002 ELECTRONICS_003 BOOKS_003
+F1,photo,photo,,BOOKS_003_L.webp,BOOKS_003,Books and stationery,yes,,,1,BOOKS_003,BOOKS_003 BOOKS_002 KEYS_001
+F1,photo,photo,,BOOKS_004_L.webp,BOOKS_004,Books and stationery,yes,,,1,BOOKS_004,BOOKS_004 BOOKS_005 ACCESSORIES_004
+F1,photo,photo,,BOOKS_005_L.webp,BOOKS_005,Books and stationery,yes,,,1,BOOKS_005,BOOKS_005 BOOKS_004 BOOKS_003
+F1,photo,photo,,BOTTLE_001_L.webp,BOTTLE_001,Water bottles and containers,no,,,1,BOTTLE_001,BOTTLE_001 CLOTHING_002 CLOTHING_003
+F1,photo,photo,,CLOTHING_001_L.webp,CLOTHING_001,Clothing,no,,,1,CLOTHING_001,CLOTHING_001 CLOTHING_005 CLOTHING_002
+F1,photo,photo,,CLOTHING_002_L.webp,CLOTHING_002,Clothing,no,,,1,CLOTHING_002,CLOTHING_002 CLOTHING_003 ACCESSORIES_004
+F1,photo,photo,,CLOTHING_003_L.webp,CLOTHING_003,Clothing,yes,,,1,CLOTHING_003,CLOTHING_003 CLOTHING_002 ACCESSORIES_004
+F1,photo,photo,,CLOTHING_004_L.webp,CLOTHING_004,Clothing,yes,,,1,CLOTHING_004,CLOTHING_004 BAG_003 CLOTHING_002
+F1,photo,photo,,CLOTHING_005_L.webp,CLOTHING_005,Clothing,yes,,,1,CLOTHING_005,CLOTHING_005 BAG_002 CLOTHING_001
+F1,photo,photo,,ELECTRONICS_001_L.webp,ELECTRONICS_001,Electronics,yes,,,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_002 ELECTRONICS_003
+F1,photo,photo,,ELECTRONICS_002_L.webp,ELECTRONICS_002,Electronics,yes,,,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 ELECTRONICS_003
+F1,photo,photo,,ELECTRONICS_003_L.webp,ELECTRONICS_003,Electronics,yes,,,1,ELECTRONICS_003,ELECTRONICS_003 ELECTRONICS_002 BOOKS_003
+F1,photo,photo,,KEYS_001_L.jpg,KEYS_001,Keys,no,,,1,KEYS_001,KEYS_001 ELECTRONICS_002 ELECTRONICS_001
+F2,text,raw,D_ACCESSORIES_001_1,Gümüş kadranı köşeli bir kol saati,ACCESSORIES_001,Accessories,no,medium,attributes,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,raw,D_ACCESSORIES_001_2,sekizgen gövdesi olan içinde markası yazan bir kol saati,ACCESSORIES_001,Accessories,no,specific,distinctive detail,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_ACCESSORIES_001_3,gümüş bir kol saati,ACCESSORIES_001,Accessories,no,vague,vague,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,raw,D_ACCESSORIES_001_4,gümüş bir erkek saati,ACCESSORIES_001,Accessories,no,medium,usage-style,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,raw,D_ACCESSORIES_002_1,gümüş yuvarlak ucu olan bir kolye,ACCESSORIES_002,Accessories,no,medium,attributes,1,ACCESSORIES_002,ACCESSORIES_002 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_ACCESSORIES_002_2,yuvarlak pırlanta ucu olan orta boy gümüş bir kolye,ACCESSORIES_002,Accessories,no,specific,distinctive detail,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 ACCESSORIES_003
+F2,text,raw,D_ACCESSORIES_002_3,gümüş kolye,ACCESSORIES_002,Accessories,no,vague,vague,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F2,text,raw,D_ACCESSORIES_002_4,boyna takılarak kullanılan gümüş pırlanta uçlu bir kolye,ACCESSORIES_002,Accessories,no,medium,usage-style,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 BOOKS_001
+F2,text,raw,D_ACCESSORIES_003_1,sıralı pırlanta dizilmiş bir bileklik,ACCESSORIES_003,Accessories,no,medium,attributes,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 ACCESSORIES_002
+F2,text,raw,D_ACCESSORIES_003_2,pırlantalardan oluşmuş su yolu bir kadın bilekliği,ACCESSORIES_003,Accessories,no,specific,distinctive detail,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F2,text,raw,D_ACCESSORIES_003_3,pırlantalı bir kadın biilekliği,ACCESSORIES_003,Accessories,no,vague,vague,4,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 BOOKS_001
+F2,text,raw,D_ACCESSORIES_003_4,pahalı pırlantalardan oluşmuş bileğe takılan bir kadın aksesuarı,ACCESSORIES_003,Accessories,no,medium,usage-style,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F2,text,raw,D_ACCESSORIES_004_1,kahverengi bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,attributes,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,raw,D_ACCESSORIES_004_2,kahverengi açık renk yansımaları olan  kenarları sivrilerek küçülen bir kadın güneş gözlüğü,ACCESSORIES_004,Accessories,no,specific,distinctive detail,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,raw,D_ACCESSORIES_004_3,kenarları kısalarak küçülen bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,vague,vague,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BOOKS_005
+F2,text,raw,D_ACCESSORIES_004_4,kahverengi kenarları kısa bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,usage-style,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,raw,D_ACCESSORIES_005_1,pırlanta 5 taşı olan pırlanta bir yüzük,ACCESSORIES_005,Accessories,no,medium,attributes,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,raw,D_ACCESSORIES_005_2,büyük küçük 5 pırlanta taşa sahip pahalı bir yüzük,ACCESSORIES_005,Accessories,no,specific,distinctive detail,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,raw,D_ACCESSORIES_005_3,pırlanta taşları olan yüzük,ACCESSORIES_005,Accessories,no,vague,vague,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,raw,D_ACCESSORIES_005_4,pırlanta bir evlilik ya da nişan yüzüğü,ACCESSORIES_005,Accessories,no,medium,usage-style,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,raw,D_BAG_001_1,açık kahverengi süet bir kol çantası,BAG_001,Bags,yes,medium,attributes,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,raw,D_BAG_001_2,açık kahverengi kemer detayı bulunan süet bir kol çantası,BAG_001,Bags,yes,specific,distinctive detail,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,raw,D_BAG_001_3,süet kahverengi büyük kol çantası,BAG_001,Bags,yes,vague,vague,1,BAG_001,BAG_001 BAG_002 BAG_004
+F2,text,raw,D_BAG_001_4,kahverengi süet kemer detaylı bir kadın kol çantası,BAG_001,Bags,yes,medium,usage-style,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,raw,D_BAG_002_1,siyah deri kadın kol çantası,BAG_002,Bags,yes,medium,attributes,1,BAG_002,BAG_002 BAG_004 BOOKS_001
+F2,text,raw,D_BAG_002_2,siyah parlak deri bir kadın kol çantası,BAG_002,Bags,yes,specific,distinctive detail,1,BAG_002,BAG_002 BOOKS_001 BAG_004
+F2,text,raw,D_BAG_002_3,siyah kadın kol çantası,BAG_002,Bags,yes,vague,vague,1,BAG_002,BAG_002 BAG_004 BOOKS_001
+F2,text,raw,D_BAG_002_4,siyah kola takılan orta boy kadın çantası,BAG_002,Bags,yes,medium,usage-style,1,BAG_002,BAG_002 BOOKS_001 BAG_004
+F2,text,raw,D_BAG_003_1,küçük krem rengi bir sırt çantası,BAG_003,Bags,yes,medium,attributes,1,BAG_003,BAG_003 BAG_001 BAG_004
+F2,text,raw,D_BAG_003_2,kumaş krem rengi gri ve turuncu detayları bulunan küçük unisex bir sırt çantası,BAG_003,Bags,yes,specific,distinctive detail,1,BAG_003,BAG_003 BAG_004 BAG_001
+F2,text,raw,D_BAG_003_3,açık renk sırt çantası,BAG_003,Bags,yes,vague,vague,1,BAG_003,BAG_003 BAG_001 BAG_004
+F2,text,raw,D_BAG_003_4,eşya taşımak için sırta takılan renkli sırt çantası,BAG_003,Bags,yes,vague,usage-style,1,BAG_003,BAG_003 BAG_002 BOOKS_001
+F2,text,raw,D_BAG_004_1,Guess marka küçük bir el çantası,BAG_004,Bags,yes,medium,attributes,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F2,text,raw,D_BAG_004_2,guess marka etiketi bulunan gövdesinde amblem detayları bulunan kahverengi deri kenarları bulunan küçük bir el çantası,BAG_004,Bags,yes,specific,distinctive detail,1,BAG_004,BAG_004 BOOKS_001 BAG_001
+F2,text,raw,D_BAG_004_3,küçük kahverengi el çantası,BAG_004,Bags,yes,vague,vague,1,BAG_004,BAG_004 BAG_001 BAG_002
+F2,text,raw,D_BAG_004_4,içinde çok eşya taşınamayacak kadar küçük şık kahverengi bir çanta,BAG_004,Bags,yes,medium,usage-style,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F2,text,raw,D_BAG_005_1,gri üstünde beyaz yazıalrı bulunan Tote çanta,BAG_005,Bags,no,medium,attributes,1,BAG_005,BAG_005 ACCESSORIES_005 BAG_004
+F2,text,raw,D_BAG_005_2,gri üstünde beyaz işleme ile büyük küçük yazılar yazan bir kadın kol çantası,BAG_005,Bags,no,specific,distinctive detail,1,BAG_005,BAG_005 BAG_004 BAG_002
+F2,text,raw,D_BAG_005_3,gri kadın kol çantası,BAG_005,Bags,no,vague,vague,1,BAG_005,BAG_005 BAG_004 BAG_002
+F2,text,raw,D_BAG_005_4,büyük içine ders kitapları konulabilecek üstü beyaz yazılı gri çanta,BAG_005,Bags,no,medium,usage-style,1,BAG_005,BAG_005 BOOKS_001 BAG_003
+F2,text,raw,D_BOOKS_001_1,yazarı Tolstoy olan bir okuma kitabı,BOOKS_001,Books and stationery,yes,medium,attributes,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,raw,D_BOOKS_001_2,kitabın kapağında yaşlı bir adam olan Tolstoy'dan Bir gencin dramı adlı roman,BOOKS_001,Books and stationery,yes,specific,distinctive detail,1,BOOKS_001,BOOKS_001 CLOTHING_004 CLOTHING_001
+F2,text,raw,D_BOOKS_001_3,bir yetişkin hikaye kitabı,BOOKS_001,Books and stationery,yes,vague,vague,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,raw,D_BOOKS_001_4,önemli bir yazardan bir roman kitabı,BOOKS_001,Books and stationery,yes,vague,usage-style,1,BOOKS_001,BOOKS_001 BOOKS_002 ACCESSORIES_005
+F2,text,raw,D_BOOKS_002_1,yeşil beyaz renkli yazı defteri,BOOKS_002,Books and stationery,yes,medium,attributes,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F2,text,raw,D_BOOKS_002_2,üstünde kaktüs ressimleri bulunan beyaz yeşil bir yazı defteri,BOOKS_002,Books and stationery,yes,specific,distinctive detail,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_005
+F2,text,raw,D_BOOKS_002_3,"resimli ,renkli yazı defteri",BOOKS_002,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,raw,D_BOOKS_002_4,içine yazı yazmaya yarayan kapağında kaktüs detayları bulunan bir defter,BOOKS_002,Books and stationery,yes,medium,usage-style,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F2,text,raw,D_BOOKS_003_1,siyah üstünde beyaz detaylar olan bir dosya,BOOKS_003,Books and stationery,yes,medium,attributes,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F2,text,raw,D_BOOKS_003_2,beyaz araba detaylı kenarda kalemi bulunan Mercedes markalı bir dosya,BOOKS_003,Books and stationery,yes,specific,distinctive detail,1,BOOKS_003,BOOKS_003 BOOKS_001 BOOKS_004
+F2,text,raw,D_BOOKS_003_3,markalı siyah bir dosya,BOOKS_003,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F2,text,raw,D_BOOKS_003_4,içine kağıt koymaya yarayan kameli bulunan markalı bir dosya,BOOKS_003,Books and stationery,yes,medium,usage-style,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F2,text,raw,D_BOOKS_004_1,kapağı bulunan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,attributes,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,raw,D_BOOKS_004_2,"kahverengi detayları bulunan ,kapağı olan şeffaf bir dolma kalem",BOOKS_004,Books and stationery,yes,specific,distinctive detail,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,raw,D_BOOKS_004_3,şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,vague,vague,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,raw,D_BOOKS_004_4,güzel yazmaya yarayan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,usage-style,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,raw,D_BOOKS_005_1,yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,attributes,1,BOOKS_005,BOOKS_005 BOOKS_001 BOOKS_003
+F2,text,raw,D_BOOKS_005_2,"yeşil ,ince ,uzun deriden yapılmış bir kalemlik",BOOKS_005,Books and stationery,yes,specific,distinctive detail,1,BOOKS_005,BOOKS_005 BOOKS_004 ELECTRONICS_001
+F2,text,raw,D_BOOKS_005_3,dikdörtgen yeşil bir kalemlik,BOOKS_005,Books and stationery,yes,vague,vague,1,BOOKS_005,BOOKS_005 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_BOOKS_005_4,içine bir kalem sığacak uzunlukta yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,usage-style,1,BOOKS_005,BOOKS_005 BOOKS_001 BOOKS_004
+F2,text,raw,D_BOTTLE_001_1,"yeşil ve kırmızı, üstünde hayvan ressimleri olan pipetli bir termos",BOTTLE_001,Water bottles and containers,no,medium,attributes,1,BOTTLE_001,BOTTLE_001 BOOKS_001 BOOKS_002
+F2,text,raw,D_BOTTLE_001_2,"sturbucks markalı yeşil renkli, üstünde bereli hayvan ressimleri bulunan,kırmızı kapağı ve pipeti olan bir termos",BOTTLE_001,Water bottles and containers,no,specific,distinctive detail,1,BOTTLE_001,BOTTLE_001 BOOKS_005 BOOKS_002
+F2,text,raw,D_BOTTLE_001_3,resimli ve renkli bir termos,BOTTLE_001,Water bottles and containers,no,vague,vague,1,BOTTLE_001,BOTTLE_001 BOOKS_001 ACCESSORIES_004
+F2,text,raw,D_BOTTLE_001_4,içinde sıvı taşınabilen büyük termos,BOTTLE_001,Water bottles and containers,no,vague,usage-style,1,BOTTLE_001,BOTTLE_001 BOOKS_001 ACCESSORIES_004
+F2,text,raw,D_CLOTHING_001_1,koyu yeşil uzun kollu hırka,CLOTHING_001,Clothing,no,medium,attributes,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_CLOTHING_001_2,"yeşil renkli,düğmeleri bulunan yün bir kadın hırkası",CLOTHING_001,Clothing,no,specific,distinctive detail,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_CLOTHING_001_3,koyu yeşil bir hırka,CLOTHING_001,Clothing,no,vague,vague,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_CLOTHING_001_4,soğuktan koyuyan yünlü yeşil bir hırka,CLOTHING_001,Clothing,no,medium,usage-style,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_CLOTHING_002_1,"lacivert uzun kollu bir sweatshirt,kazak",CLOTHING_002,Clothing,no,medium,attributes,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F2,text,raw,D_CLOTHING_002_2,"lacivert,kırmızı arması bulunan uzun kollu bir sweatshirt,kazak",CLOTHING_002,Clothing,no,specific,distinctive detail,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_003
+F2,text,raw,D_CLOTHING_002_3,kırmızı arması bulunan kazak,CLOTHING_002,Clothing,no,vague,vague,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F2,text,raw,D_CLOTHING_002_4,soğuk havada giyilebilen bir kazak,CLOTHING_002,Clothing,no,vague,usage-style,3,CLOTHING_001,CLOTHING_001 BOOKS_001 CLOTHING_002
+F2,text,raw,D_CLOTHING_003_1,"siyah, üstünde at resmi olan kenarında polo yazan bir şapka",CLOTHING_003,Clothing,no,medium,attributes,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F2,text,raw,D_CLOTHING_003_2,"siyah, üstünde beyaz at işlemesi olan bir şapka",CLOTHING_003,Clothing,no,specific,distinctive detail,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_CLOTHING_003_3,siyah bir erkek şapkası,CLOTHING_003,Clothing,no,vague,vague,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_CLOTHING_003_4,güneşten koruyan siyah bir şayka,CLOTHING_003,Clothing,no,medium,usage-style,5,BOOKS_001,BOOKS_001 ACCESSORIES_004 KEYS_001
+F2,text,raw,D_CLOTHING_004_1,"beyaz,üstünde yazı ve kahve fincanı bulunan bir tişört",CLOTHING_004,Clothing,yes,medium,attributes,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,raw,D_CLOTHING_004_2,"beyaz, üstünde turuncu yazılar ve içi kahve dolu finvan baskısı bulunan bir tişört",CLOTHING_004,Clothing,yes,specific,distinctive detail,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,raw,D_CLOTHING_004_3,beyaz bir kadın tişörtü,CLOTHING_004,Clothing,yes,vague,vague,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,raw,D_CLOTHING_004_4,"ince, beyaz bir kadın tişörtü",CLOTHING_004,Clothing,yes,medium,usage-style,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,raw,D_CLOTHING_005_1,düğmeleri bulunan deri bir ceket,CLOTHING_005,Clothing,yes,medium,attributes,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F2,text,raw,D_CLOTHING_005_2,siyah yuvarlak düğmeleri bulunan kahverengi deri bir kadın ceketi,CLOTHING_005,Clothing,yes,specific,distinctive detail,1,CLOTHING_005,CLOTHING_005 BAG_002 BOOKS_001
+F2,text,raw,D_CLOTHING_005_3,kahverengi deri bir ceket,CLOTHING_005,Clothing,yes,vague,vague,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F2,text,raw,D_CLOTHING_005_4,soğuktan koruyan deri bir ceket,CLOTHING_005,Clothing,yes,medium,usage-style,1,CLOTHING_005,CLOTHING_005 BOOKS_001 CLOTHING_001
+F2,text,raw,D_ELECTRONICS_001_1,iki kamerası bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,no,medium,attributes,1,ELECTRONICS_001,ELECTRONICS_001 KEYS_001 BOOKS_001
+F2,text,raw,D_ELECTRONICS_001_2,iki kamerası olan elma sembolu bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,no,specific,distinctive detail,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_003 KEYS_001
+F2,text,raw,D_ELECTRONICS_001_3,kameralı bir cep telefonu,ELECTRONICS_001,Electronics,no,vague,vague,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F2,text,raw,D_ELECTRONICS_001_4,iletişim kurulmasına yarayan bir cep telefonu,ELECTRONICS_001,Electronics,no,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_001 KEYS_001
+F2,text,raw,D_ELECTRONICS_002_1,beyaz kabı bulunan bir kulaklık,ELECTRONICS_002,Electronics,yes,medium,attributes,1,ELECTRONICS_002,ELECTRONICS_002 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_ELECTRONICS_002_2,"beyaz kulak içi bir kulaklık, kabında bir ip var",ELECTRONICS_002,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_002,ELECTRONICS_002 ACCESSORIES_005 BOOKS_001
+F2,text,raw,D_ELECTRONICS_002_3,beyaz bir çift kulaklık,ELECTRONICS_002,Electronics,yes,vague,vague,1,ELECTRONICS_002,ELECTRONICS_002 BOOKS_001 ACCESSORIES_005
+F2,text,raw,D_ELECTRONICS_002_4,müzik dinlemeye yarayan bir kulaklık,ELECTRONICS_002,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_002 ACCESSORIES_005
+F2,text,raw,D_ELECTRONICS_003_1,siyah dikdörtgen bir tablet,ELECTRONICS_003,Electronics,yes,medium,attributes,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F2,text,raw,D_ELECTRONICS_003_2,"siyah ,kamerası olan dikdörtgen bir tablet",ELECTRONICS_003,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F2,text,raw,D_ELECTRONICS_003_3,"dikdörtgen, kameralı tablet",ELECTRONICS_003,Electronics,yes,vague,vague,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 ELECTRONICS_001
+F2,text,raw,D_ELECTRONICS_003_4,elektronik işlemlere yarayan bir tablet,ELECTRONICS_003,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_003 BOOKS_003
+F2,text,raw,D_KEYS_001_1,siyah düğmeli araba anahtarı,KEYS_001,Keys,no,medium,attributes,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F2,text,raw,D_KEYS_001_2,"siyah ve metal detayları bulunan, düğmelerinin üstünde ressimler olan araba anahtarı",KEYS_001,Keys,no,specific,distinctive detail,1,KEYS_001,KEYS_001 BOOKS_003 ACCESSORIES_005
+F2,text,raw,D_KEYS_001_3,düğmeli bir araba anahtarı,KEYS_001,Keys,no,vague,vague,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F2,text,raw,D_KEYS_001_4,arabayı çalıştırmaya yarayan düğmeleri bulunan bir araba anahtarı,KEYS_001,Keys,no,medium,usage-style,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_001
+F2,text,clean,D_ACCESSORIES_001_1,"Gümüş, kadranı köşeli bir kol saati",ACCESSORIES_001,Accessories,no,medium,attributes,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,clean,D_ACCESSORIES_001_2,"Sekizgen gövdesi olan, içinde markası yazan bir kol saati",ACCESSORIES_001,Accessories,no,specific,distinctive detail,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_ACCESSORIES_001_3,Gümüş bir kol saati,ACCESSORIES_001,Accessories,no,vague,vague,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,clean,D_ACCESSORIES_001_4,Gümüş bir erkek saati,ACCESSORIES_001,Accessories,no,medium,usage-style,1,ACCESSORIES_001,ACCESSORIES_001 BOOKS_001 ACCESSORIES_003
+F2,text,clean,D_ACCESSORIES_002_1,"Gümüş, yuvarlak ucu olan bir kolye",ACCESSORIES_002,Accessories,no,medium,attributes,1,ACCESSORIES_002,ACCESSORIES_002 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_ACCESSORIES_002_2,Yuvarlak pırlanta ucu olan orta boy gümüş bir kolye,ACCESSORIES_002,Accessories,no,specific,distinctive detail,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 ACCESSORIES_003
+F2,text,clean,D_ACCESSORIES_002_3,Gümüş kolye,ACCESSORIES_002,Accessories,no,vague,vague,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_003 ACCESSORIES_005
+F2,text,clean,D_ACCESSORIES_002_4,"Boyna takılarak kullanılan gümüş, pırlanta uçlu bir kolye",ACCESSORIES_002,Accessories,no,medium,usage-style,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 BOOKS_001
+F2,text,clean,D_ACCESSORIES_003_1,Sıralı pırlanta dizilmiş bir bileklik,ACCESSORIES_003,Accessories,no,medium,attributes,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 ACCESSORIES_002
+F2,text,clean,D_ACCESSORIES_003_2,Pırlantalardan oluşmuş su yolu bir kadın bilekliği,ACCESSORIES_003,Accessories,no,specific,distinctive detail,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F2,text,clean,D_ACCESSORIES_003_3,Pırlantalı bir kadın bilekliği,ACCESSORIES_003,Accessories,no,vague,vague,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 ACCESSORIES_002
+F2,text,clean,D_ACCESSORIES_003_4,"Pahalı pırlantalardan oluşmuş, bileğe takılan bir kadın aksesuarı",ACCESSORIES_003,Accessories,no,medium,usage-style,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_002 ACCESSORIES_005
+F2,text,clean,D_ACCESSORIES_004_1,Kahverengi bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,medium,attributes,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,clean,D_ACCESSORIES_004_2,"Kahverengi, açık renk yansımaları olan, kenarları sivrilerek küçülen bir kadın güneş gözlüğü",ACCESSORIES_004,Accessories,no,specific,distinctive detail,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,clean,D_ACCESSORIES_004_3,Kenarları kısalarak küçülen bir güneş gözlüğü,ACCESSORIES_004,Accessories,no,vague,vague,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BOOKS_005
+F2,text,clean,D_ACCESSORIES_004_4,"Kahverengi, kenarları kısa bir güneş gözlüğü",ACCESSORIES_004,Accessories,no,medium,usage-style,1,ACCESSORIES_004,ACCESSORIES_004 BOOKS_001 BAG_004
+F2,text,clean,D_ACCESSORIES_005_1,Pırlanta 5 taşı olan pırlanta bir yüzük,ACCESSORIES_005,Accessories,no,medium,attributes,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,clean,D_ACCESSORIES_005_2,Büyük küçük 5 pırlanta taşa sahip pahalı bir yüzük,ACCESSORIES_005,Accessories,no,specific,distinctive detail,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,clean,D_ACCESSORIES_005_3,Pırlanta taşları olan yüzük,ACCESSORIES_005,Accessories,no,vague,vague,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,clean,D_ACCESSORIES_005_4,Pırlanta bir evlilik ya da nişan yüzüğü,ACCESSORIES_005,Accessories,no,medium,usage-style,1,ACCESSORIES_005,ACCESSORIES_005 ACCESSORIES_003 BOOKS_001
+F2,text,clean,D_BAG_001_1,Açık kahverengi süet bir kol çantası,BAG_001,Bags,yes,medium,attributes,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,clean,D_BAG_001_2,"Açık kahverengi, kemer detayı bulunan süet bir kol çantası",BAG_001,Bags,yes,specific,distinctive detail,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,clean,D_BAG_001_3,Süet kahverengi büyük kol çantası,BAG_001,Bags,yes,vague,vague,1,BAG_001,BAG_001 BAG_002 BAG_004
+F2,text,clean,D_BAG_001_4,"Kahverengi süet, kemer detaylı bir kadın kol çantası",BAG_001,Bags,yes,medium,usage-style,1,BAG_001,BAG_001 BAG_004 BAG_002
+F2,text,clean,D_BAG_002_1,Siyah deri kadın kol çantası,BAG_002,Bags,yes,medium,attributes,1,BAG_002,BAG_002 BAG_004 BOOKS_001
+F2,text,clean,D_BAG_002_2,Siyah parlak deri bir kadın kol çantası,BAG_002,Bags,yes,specific,distinctive detail,1,BAG_002,BAG_002 BOOKS_001 BAG_004
+F2,text,clean,D_BAG_002_3,Siyah kadın kol çantası,BAG_002,Bags,yes,vague,vague,1,BAG_002,BAG_002 BAG_004 BOOKS_001
+F2,text,clean,D_BAG_002_4,"Siyah, kola takılan orta boy kadın çantası",BAG_002,Bags,yes,medium,usage-style,1,BAG_002,BAG_002 BOOKS_001 BAG_004
+F2,text,clean,D_BAG_003_1,Küçük krem rengi bir sırt çantası,BAG_003,Bags,yes,medium,attributes,1,BAG_003,BAG_003 BAG_001 BAG_004
+F2,text,clean,D_BAG_003_2,"Kumaş, krem rengi, gri ve turuncu detayları bulunan küçük unisex bir sırt çantası",BAG_003,Bags,yes,specific,distinctive detail,1,BAG_003,BAG_003 BAG_004 BAG_001
+F2,text,clean,D_BAG_003_3,Açık renk sırt çantası,BAG_003,Bags,yes,vague,vague,1,BAG_003,BAG_003 BAG_001 BAG_004
+F2,text,clean,D_BAG_003_4,Eşya taşımak için sırta takılan renkli sırt çantası,BAG_003,Bags,yes,vague,usage-style,1,BAG_003,BAG_003 BAG_002 BOOKS_001
+F2,text,clean,D_BAG_004_1,Guess marka küçük bir el çantası,BAG_004,Bags,yes,medium,attributes,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F2,text,clean,D_BAG_004_2,"Guess marka etiketi ve gövdesinde amblem detayları olan, kahverengi deri kenarlı küçük bir el çantası",BAG_004,Bags,yes,specific,distinctive detail,1,BAG_004,BAG_004 BAG_001 BAG_002
+F2,text,clean,D_BAG_004_3,Küçük kahverengi el çantası,BAG_004,Bags,yes,vague,vague,1,BAG_004,BAG_004 BAG_001 BAG_002
+F2,text,clean,D_BAG_004_4,"İçinde çok eşya taşınamayacak kadar küçük, şık kahverengi bir çanta",BAG_004,Bags,yes,medium,usage-style,1,BAG_004,BAG_004 BAG_001 BOOKS_001
+F2,text,clean,D_BAG_005_1,"Gri, üstünde beyaz yazıları bulunan tote çanta",BAG_005,Bags,no,medium,attributes,1,BAG_005,BAG_005 ACCESSORIES_005 BAG_002
+F2,text,clean,D_BAG_005_2,"Gri, üstünde beyaz işleme ile büyük küçük yazılar yazan bir kadın kol çantası",BAG_005,Bags,no,specific,distinctive detail,1,BAG_005,BAG_005 BAG_004 BAG_002
+F2,text,clean,D_BAG_005_3,Gri kadın kol çantası,BAG_005,Bags,no,vague,vague,1,BAG_005,BAG_005 BAG_004 BAG_002
+F2,text,clean,D_BAG_005_4,"Büyük, içine ders kitapları konulabilecek, üstü beyaz yazılı gri çanta",BAG_005,Bags,no,medium,usage-style,1,BAG_005,BAG_005 BOOKS_001 BAG_003
+F2,text,clean,D_BOOKS_001_1,Yazarı Tolstoy olan bir okuma kitabı,BOOKS_001,Books and stationery,yes,medium,attributes,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,clean,D_BOOKS_001_2,"Kapağında yaşlı bir adam resmi olan, Tolstoy'dan Bir Gencin Dramı adlı roman",BOOKS_001,Books and stationery,yes,specific,distinctive detail,1,BOOKS_001,BOOKS_001 CLOTHING_001 CLOTHING_004
+F2,text,clean,D_BOOKS_001_3,Bir yetişkin hikâye kitabı,BOOKS_001,Books and stationery,yes,vague,vague,1,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,clean,D_BOOKS_001_4,Önemli bir yazardan bir roman kitabı,BOOKS_001,Books and stationery,yes,vague,usage-style,1,BOOKS_001,BOOKS_001 BOOKS_002 ACCESSORIES_005
+F2,text,clean,D_BOOKS_002_1,Yeşil beyaz renkli yazı defteri,BOOKS_002,Books and stationery,yes,medium,attributes,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F2,text,clean,D_BOOKS_002_2,Üstünde kaktüs resimleri bulunan beyaz yeşil bir yazı defteri,BOOKS_002,Books and stationery,yes,specific,distinctive detail,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F2,text,clean,D_BOOKS_002_3,"Resimli, renkli yazı defteri",BOOKS_002,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_002 BOOKS_003
+F2,text,clean,D_BOOKS_002_4,"İçine yazı yazmaya yarayan, kapağında kaktüs detayları bulunan bir defter",BOOKS_002,Books and stationery,yes,medium,usage-style,1,BOOKS_002,BOOKS_002 BOOKS_001 BOOKS_003
+F2,text,clean,D_BOOKS_003_1,"Siyah, üstünde beyaz detaylar olan bir dosya",BOOKS_003,Books and stationery,yes,medium,attributes,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F2,text,clean,D_BOOKS_003_2,"Beyaz araba detaylı, kenarında kalemi bulunan Mercedes markalı bir dosya",BOOKS_003,Books and stationery,yes,specific,distinctive detail,1,BOOKS_003,BOOKS_003 BOOKS_001 BOOKS_004
+F2,text,clean,D_BOOKS_003_3,Markalı siyah bir dosya,BOOKS_003,Books and stationery,yes,vague,vague,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_002
+F2,text,clean,D_BOOKS_003_4,"İçine kâğıt koymaya yarayan, kalemi bulunan markalı bir dosya",BOOKS_003,Books and stationery,yes,medium,usage-style,2,BOOKS_001,BOOKS_001 BOOKS_003 BOOKS_005
+F2,text,clean,D_BOOKS_004_1,Kapağı bulunan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,attributes,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,clean,D_BOOKS_004_2,"Kahverengi detayları bulunan, kapağı olan şeffaf bir dolma kalem",BOOKS_004,Books and stationery,yes,specific,distinctive detail,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,clean,D_BOOKS_004_3,Şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,vague,vague,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,clean,D_BOOKS_004_4,Güzel yazmaya yarayan şeffaf ve kahverengi bir dolma kalem,BOOKS_004,Books and stationery,yes,medium,usage-style,1,BOOKS_004,BOOKS_004 BOOKS_005 BOOKS_001
+F2,text,clean,D_BOOKS_005_1,Yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,attributes,1,BOOKS_005,BOOKS_005 BOOKS_001 BOOKS_003
+F2,text,clean,D_BOOKS_005_2,"Yeşil, ince, uzun deriden yapılmış bir kalemlik",BOOKS_005,Books and stationery,yes,specific,distinctive detail,1,BOOKS_005,BOOKS_005 BOOKS_004 ELECTRONICS_001
+F2,text,clean,D_BOOKS_005_3,Dikdörtgen yeşil bir kalemlik,BOOKS_005,Books and stationery,yes,vague,vague,1,BOOKS_005,BOOKS_005 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_BOOKS_005_4,İçine bir kalem sığacak uzunlukta yeşil deri bir kalemlik,BOOKS_005,Books and stationery,yes,medium,usage-style,1,BOOKS_005,BOOKS_005 BOOKS_001 BOOKS_004
+F2,text,clean,D_BOTTLE_001_1,"Yeşil ve kırmızı, üstünde hayvan resimleri olan pipetli bir termos",BOTTLE_001,Water bottles and containers,no,medium,attributes,1,BOTTLE_001,BOTTLE_001 BOOKS_001 BOOKS_002
+F2,text,clean,D_BOTTLE_001_2,"Starbucks markalı, yeşil renkli, üstünde bereli hayvan resimleri bulunan, kırmızı kapağı ve pipeti olan bir termos",BOTTLE_001,Water bottles and containers,no,specific,distinctive detail,1,BOTTLE_001,BOTTLE_001 BOOKS_005 BOOKS_002
+F2,text,clean,D_BOTTLE_001_3,Resimli ve renkli bir termos,BOTTLE_001,Water bottles and containers,no,vague,vague,1,BOTTLE_001,BOTTLE_001 BOOKS_001 ACCESSORIES_004
+F2,text,clean,D_BOTTLE_001_4,İçinde sıvı taşınabilen büyük termos,BOTTLE_001,Water bottles and containers,no,vague,usage-style,1,BOTTLE_001,BOTTLE_001 BOOKS_001 ACCESSORIES_004
+F2,text,clean,D_CLOTHING_001_1,Koyu yeşil uzun kollu hırka,CLOTHING_001,Clothing,no,medium,attributes,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_CLOTHING_001_2,"Yeşil renkli, düğmeleri bulunan yün bir kadın hırkası",CLOTHING_001,Clothing,no,specific,distinctive detail,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_CLOTHING_001_3,Koyu yeşil bir hırka,CLOTHING_001,Clothing,no,vague,vague,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_CLOTHING_001_4,Soğuktan koruyan yünlü yeşil bir hırka,CLOTHING_001,Clothing,no,medium,usage-style,1,CLOTHING_001,CLOTHING_001 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_CLOTHING_002_1,"Lacivert uzun kollu bir sweatshirt, kazak",CLOTHING_002,Clothing,no,medium,attributes,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F2,text,clean,D_CLOTHING_002_2,"Lacivert, kırmızı arması bulunan uzun kollu bir sweatshirt, kazak",CLOTHING_002,Clothing,no,specific,distinctive detail,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_003
+F2,text,clean,D_CLOTHING_002_3,Kırmızı arması bulunan kazak,CLOTHING_002,Clothing,no,vague,vague,1,CLOTHING_002,CLOTHING_002 BOOKS_001 CLOTHING_001
+F2,text,clean,D_CLOTHING_002_4,Soğuk havada giyilebilen bir kazak,CLOTHING_002,Clothing,no,vague,usage-style,3,CLOTHING_001,CLOTHING_001 BOOKS_001 CLOTHING_002
+F2,text,clean,D_CLOTHING_003_1,"Siyah, üstünde at resmi olan, kenarında Polo yazan bir şapka",CLOTHING_003,Clothing,no,medium,attributes,1,CLOTHING_003,CLOTHING_003 BOOKS_001 CLOTHING_002
+F2,text,clean,D_CLOTHING_003_2,"Siyah, üstünde beyaz at işlemesi olan bir şapka",CLOTHING_003,Clothing,no,specific,distinctive detail,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_CLOTHING_003_3,Siyah bir erkek şapkası,CLOTHING_003,Clothing,no,vague,vague,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_CLOTHING_003_4,Güneşten koruyan siyah bir şapka,CLOTHING_003,Clothing,no,medium,usage-style,1,CLOTHING_003,CLOTHING_003 BOOKS_001 ACCESSORIES_004
+F2,text,clean,D_CLOTHING_004_1,"Beyaz, üstünde yazı ve kahve fincanı bulunan bir tişört",CLOTHING_004,Clothing,yes,medium,attributes,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,clean,D_CLOTHING_004_2,"Beyaz, üstünde turuncu yazılar ve içi kahve dolu fincan baskısı bulunan bir tişört",CLOTHING_004,Clothing,yes,specific,distinctive detail,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,clean,D_CLOTHING_004_3,Beyaz bir kadın tişörtü,CLOTHING_004,Clothing,yes,vague,vague,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,clean,D_CLOTHING_004_4,"İnce, beyaz bir kadın tişörtü",CLOTHING_004,Clothing,yes,medium,usage-style,1,CLOTHING_004,CLOTHING_004 ACCESSORIES_004 BOOKS_001
+F2,text,clean,D_CLOTHING_005_1,Düğmeleri bulunan deri bir ceket,CLOTHING_005,Clothing,yes,medium,attributes,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F2,text,clean,D_CLOTHING_005_2,Siyah yuvarlak düğmeleri bulunan kahverengi deri bir kadın ceketi,CLOTHING_005,Clothing,yes,specific,distinctive detail,1,CLOTHING_005,CLOTHING_005 BAG_002 BOOKS_001
+F2,text,clean,D_CLOTHING_005_3,Kahverengi deri bir ceket,CLOTHING_005,Clothing,yes,vague,vague,1,CLOTHING_005,CLOTHING_005 BOOKS_001 BAG_002
+F2,text,clean,D_CLOTHING_005_4,Soğuktan koruyan deri bir ceket,CLOTHING_005,Clothing,yes,medium,usage-style,1,CLOTHING_005,CLOTHING_005 BOOKS_001 CLOTHING_001
+F2,text,clean,D_ELECTRONICS_001_1,İki kamerası bulunan yeşil bir cep telefonu,ELECTRONICS_001,Electronics,no,medium,attributes,1,ELECTRONICS_001,ELECTRONICS_001 KEYS_001 BOOKS_001
+F2,text,clean,D_ELECTRONICS_001_2,"İki kamerası olan, elma sembolü bulunan yeşil bir cep telefonu",ELECTRONICS_001,Electronics,no,specific,distinctive detail,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_003 KEYS_001
+F2,text,clean,D_ELECTRONICS_001_3,Kameralı bir cep telefonu,ELECTRONICS_001,Electronics,no,vague,vague,1,ELECTRONICS_001,ELECTRONICS_001 BOOKS_001 KEYS_001
+F2,text,clean,D_ELECTRONICS_001_4,İletişim kurulmasına yarayan bir cep telefonu,ELECTRONICS_001,Electronics,no,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_001 KEYS_001
+F2,text,clean,D_ELECTRONICS_002_1,Beyaz kabı bulunan bir kulaklık,ELECTRONICS_002,Electronics,yes,medium,attributes,1,ELECTRONICS_002,ELECTRONICS_002 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_ELECTRONICS_002_2,"Beyaz kulak içi bir kulaklık, kabında bir ip var",ELECTRONICS_002,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_002,ELECTRONICS_002 ACCESSORIES_005 BOOKS_001
+F2,text,clean,D_ELECTRONICS_002_3,Beyaz bir çift kulaklık,ELECTRONICS_002,Electronics,yes,vague,vague,1,ELECTRONICS_002,ELECTRONICS_002 BOOKS_001 ACCESSORIES_005
+F2,text,clean,D_ELECTRONICS_002_4,Müzik dinlemeye yarayan bir kulaklık,ELECTRONICS_002,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_002 ACCESSORIES_005
+F2,text,clean,D_ELECTRONICS_003_1,Siyah dikdörtgen bir tablet,ELECTRONICS_003,Electronics,yes,medium,attributes,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F2,text,clean,D_ELECTRONICS_003_2,"Siyah, kamerası olan dikdörtgen bir tablet",ELECTRONICS_003,Electronics,yes,specific,distinctive detail,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 BOOKS_003
+F2,text,clean,D_ELECTRONICS_003_3,"Dikdörtgen, kameralı tablet",ELECTRONICS_003,Electronics,yes,vague,vague,1,ELECTRONICS_003,ELECTRONICS_003 BOOKS_001 ELECTRONICS_001
+F2,text,clean,D_ELECTRONICS_003_4,Elektronik işlemlere yarayan bir tablet,ELECTRONICS_003,Electronics,yes,vague,usage-style,2,BOOKS_001,BOOKS_001 ELECTRONICS_003 BOOKS_003
+F2,text,clean,D_KEYS_001_1,Siyah düğmeli araba anahtarı,KEYS_001,Keys,no,medium,attributes,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F2,text,clean,D_KEYS_001_2,"Siyah ve metal detayları bulunan, düğmelerinin üstünde resimler olan araba anahtarı",KEYS_001,Keys,no,specific,distinctive detail,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_001
+F2,text,clean,D_KEYS_001_3,Düğmeli bir araba anahtarı,KEYS_001,Keys,no,vague,vague,1,KEYS_001,KEYS_001 BOOKS_001 BOOKS_003
+F2,text,clean,D_KEYS_001_4,Arabayı çalıştırmaya yarayan düğmeleri bulunan bir araba anahtarı,KEYS_001,Keys,no,medium,usage-style,1,KEYS_001,KEYS_001 BOOKS_003 BOOKS_001
+F2,photo,photo,,ACCESSORIES_001_L.webp,ACCESSORIES_001,Accessories,no,,,1,ACCESSORIES_001,ACCESSORIES_001 ACCESSORIES_002 BAG_001
+F2,photo,photo,,ACCESSORIES_002_L.webp,ACCESSORIES_002,Accessories,no,,,1,ACCESSORIES_002,ACCESSORIES_002 ACCESSORIES_005 ACCESSORIES_003
+F2,photo,photo,,ACCESSORIES_003_L.webp,ACCESSORIES_003,Accessories,no,,,1,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 ACCESSORIES_002
+F2,photo,photo,,ACCESSORIES_004_L.webp,ACCESSORIES_004,Accessories,no,,,1,ACCESSORIES_004,ACCESSORIES_004 CLOTHING_003 BAG_002
+F2,photo,photo,,ACCESSORIES_005_L.webp,ACCESSORIES_005,Accessories,no,,,2,ACCESSORIES_003,ACCESSORIES_003 ACCESSORIES_005 BOOKS_001
+F2,photo,photo,,BAG_001_L.webp,BAG_001,Bags,yes,,,1,BAG_001,BAG_001 BAG_002 BAG_003
+F2,photo,photo,,BAG_002_L.webp,BAG_002,Bags,yes,,,1,BAG_002,BAG_002 BAG_001 ACCESSORIES_004
+F2,photo,photo,,BAG_003_L.webp,BAG_003,Bags,yes,,,1,BAG_003,BAG_003 BAG_001 BAG_002
+F2,photo,photo,,BAG_004_L.webp,BAG_004,Bags,yes,,,1,BAG_004,BAG_004 BAG_005 CLOTHING_002
+F2,photo,photo,,BAG_005_L.webp,BAG_005,Bags,no,,,1,BAG_005,BAG_005 BAG_004 BAG_002
+F2,photo,photo,,BOOKS_001_L.webp,BOOKS_001,Books and stationery,yes,,,1,BOOKS_001,BOOKS_001 CLOTHING_004 BOOKS_003
+F2,photo,photo,,BOOKS_002_L.webp,BOOKS_002,Books and stationery,yes,,,1,BOOKS_002,BOOKS_002 BOOKS_003 BOOKS_004
+F2,photo,photo,,BOOKS_003_L.webp,BOOKS_003,Books and stationery,yes,,,1,BOOKS_003,BOOKS_003 BOOKS_005 BOOKS_002
+F2,photo,photo,,BOOKS_004_L.webp,BOOKS_004,Books and stationery,yes,,,1,BOOKS_004,BOOKS_004 BOOKS_005 ACCESSORIES_005
+F2,photo,photo,,BOOKS_005_L.webp,BOOKS_005,Books and stationery,yes,,,1,BOOKS_005,BOOKS_005 BOOKS_004 ACCESSORIES_005
+F2,photo,photo,,BOTTLE_001_L.webp,BOTTLE_001,Water bottles and containers,no,,,1,BOTTLE_001,BOTTLE_001 BOOKS_002 ELECTRONICS_003
+F2,photo,photo,,CLOTHING_001_L.webp,CLOTHING_001,Clothing,no,,,1,CLOTHING_001,CLOTHING_001 CLOTHING_005 BAG_002
+F2,photo,photo,,CLOTHING_002_L.webp,CLOTHING_002,Clothing,no,,,1,CLOTHING_002,CLOTHING_002 CLOTHING_003 ELECTRONICS_003
+F2,photo,photo,,CLOTHING_003_L.webp,CLOTHING_003,Clothing,no,,,1,CLOTHING_003,CLOTHING_003 CLOTHING_002 ACCESSORIES_003
+F2,photo,photo,,CLOTHING_004_L.webp,CLOTHING_004,Clothing,yes,,,1,CLOTHING_004,CLOTHING_004 CLOTHING_002 CLOTHING_001
+F2,photo,photo,,CLOTHING_005_L.webp,CLOTHING_005,Clothing,yes,,,1,CLOTHING_005,CLOTHING_005 CLOTHING_001 BAG_002
+F2,photo,photo,,ELECTRONICS_001_L.webp,ELECTRONICS_001,Electronics,no,,,1,ELECTRONICS_001,ELECTRONICS_001 ELECTRONICS_003 ELECTRONICS_002
+F2,photo,photo,,ELECTRONICS_002_L.webp,ELECTRONICS_002,Electronics,yes,,,1,ELECTRONICS_002,ELECTRONICS_002 ELECTRONICS_001 ELECTRONICS_003
+F2,photo,photo,,ELECTRONICS_003_L.webp,ELECTRONICS_003,Electronics,yes,,,1,ELECTRONICS_003,ELECTRONICS_003 ELECTRONICS_002 ELECTRONICS_001
+F2,photo,photo,,KEYS_001_L.jpg,KEYS_001,Keys,no,,,1,KEYS_001,KEYS_001 ELECTRONICS_002 CLOTHING_003
