@@ -2,3 +2,11 @@ bitirme_kategorileri/
 results.cvs
 lost_and_found_dataset/
 lost_item_48items_dataset_doldurulmus.xlsx
+__pycache__/
+kirpmalar/
+ozellikler.joblib
+ozellikler_v1.joblib
+verifier_hgb.joblib
+verifier_lr.joblib
+verifier_nomatch_hgb.joblib
+verifier_nomatch_lr.joblib
